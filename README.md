@@ -20,6 +20,11 @@ AI, 백엔드, 교육 기술, 오픈소스에 관심이 있는 초보 개발자�
 - 🏫 **Education Technology** — 학교에서 활용할 수 있는 기술과 디지털 환경에 관심이 많습니다!
 - 🌱 **Open Source** — 프로젝트를 공유하고 협업하면서 배우고 있습니다!
 
+## 🪪 Information
+
+- **current school : 계성초등학교(대구) [keisung primary school]**
+- **contect : yulbro020700@gmail.com**
+
 ## 🛠 Tech Stack
 
 **Languages**  
